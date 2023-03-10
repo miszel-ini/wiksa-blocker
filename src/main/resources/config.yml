@@ -1,4 +1,8 @@
 # Gdy komenda jest zablokowana
-command-blocked: '&4&lBLAD &8>> &cKomenda jest zablokowana!'
+command-blocked: '&4&lBLAD &8>> &cKomenda jest zablokowana'
 
+# Tutaj wpisujesz komendy, ktore chcesz zablokowac
 commands:
+  - '/help'
+  - '/plugins'
+  - '/pl'
