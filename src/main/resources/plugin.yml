@@ -1,5 +1,9 @@
 main: net.michal.blocker.WiksaBlocker
-version: {project.version}
+version: 1.0
 name: wiksa-blocker
 description: basic command blocker for minecraft server with config
 website: https://gihub.com/miszel-ini/wiksa-blocker
+commands:
+  blocker:
+    aliases: block
+    permission: blocker.reload

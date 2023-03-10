@@ -1,6 +1,9 @@
 # Gdy komenda jest zablokowana
 command-blocked: '&4&lBLAD &8>> &cKomenda jest zablokowana'
-
+# Poprawne uzycie
+correct-usage: '&4&lBLAD &8>> &7Aby przeladowac plik konfiguracyjny, uzyj: &9/blocker reload'
+# Gdy przeladowano plik konfiguracyjny
+reload-plugin: '&9&lBLOCKER &8>> &7Pomyslnie przeladowano plik konfiguracyjny'
 # Tutaj wpisujesz komendy, ktore chcesz zablokowac
 commands:
   - '/help'
