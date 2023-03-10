@@ -1,4 +1,4 @@
-main: net.michal.blocker
+main: net.michal.blocker.WiksaBlocker
 version: {project.version}
 name: wiksa-blocker
 description: basic command blocker for minecraft server with config
