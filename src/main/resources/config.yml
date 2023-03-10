@@ -1,0 +1,4 @@
+# Gdy komenda jest zablokowana
+command-blocked: '&4&lBLAD &8>> &cKomenda jest zablokowana!'
+
+commands:

@@ -1,0 +1,5 @@
+main: net.michal.blocker
+version: {project.version}
+name: wiksa-blocker
+description: basic command blocker for minecraft server with config
+website: https://gihub.com/miszel-ini/wiksa-blocker
