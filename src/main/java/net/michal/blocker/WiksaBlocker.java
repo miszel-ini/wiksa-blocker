@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class WiksaBlocker extends JavaPlugin {
 
-    WiksaBlocker instance;
+    static WiksaBlocker instance;
 
     @Override
     public void onEnable() {
