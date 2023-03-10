@@ -22,5 +22,5 @@ commands:
 3. Po odpaleniu serwera, stworzy sie plik konfiguracyjny w którym ustawiasz jakie komendy ma blokowac oraz wiadomosci i zapisujesz
 4. Potem wchodzisz na serwer i wpisujesz komende `/blocker reload` i gotowe!
 
-##Permisje
+## Permisje
 Aby użyć komendy `/blocker reload`, potrzebujesz permisji operatora bądź `blocker.reload`
